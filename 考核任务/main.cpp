@@ -1,4 +1,3 @@
-#include "robot.hpp"
 #include "robot.cpp"
 //这里四个参数分别为 机器人类型 生命值 攻击力 命中率
 Robot B_guard("Guard", 600, 5, 0.7);
